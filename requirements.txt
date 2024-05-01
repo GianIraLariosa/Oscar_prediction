@@ -2,3 +2,4 @@ matplotlib
 seaborn
 scikit-learn==1.2.2
 joblib
+pickle
